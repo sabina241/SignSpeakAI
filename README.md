@@ -11,13 +11,11 @@
 [](https://tailwindcss.com/)
 
 
-
 ## 🌟 Project Vision
 
 **SignSpeak AI** is a real-time accessibility platform designed for the Deaf and Hard-of-Hearing (DHH) community. By leveraging the **Gemini 1.5 Flash** multimodal vision model, the application interprets complex gestural language and translates it into natural, contextually accurate text.
 
 Unlike traditional computer-vision projects that rely on heavy local Python environments, SignSpeak AI is built for the **Modern Web**—ensuring high performance, responsive interaction, and global accessibility on any device with a browser.
-
 
 
 ## 🚀 Technical Innovation
@@ -36,7 +34,6 @@ We employ a **Context-Aware** approach to translation. Rather than simple "hand-
 2.  **Spatial Relations:** Hand positioning relative to facial features and the torso.
 3.  **Semantic Synthesis:** Using Large Language Model (LLM) reasoning to convert gestures into grammatically fluid sentences.
 
-
 ## 🛠️ System Architecture
 
 The application operates on a **Decoupled Intelligence Model**, separating the "Interaction Layer" from the "Brain":
@@ -46,7 +43,7 @@ The application operates on a **Decoupled Intelligence Model**, separating the "
 3.  **Translate:** Google Gemini 1.5 Flash processes visual inputs via an encrypted API tunnel.
 4.  **Render:** State-driven components instantly update the `DecisionLog` and `TranslationFeed` for the user.
 
-<img width="921" height="208" alt="Screenshot 2026-04-14 185939" src="https://github.com/user-attachments/assets/1d99b617-2d63-4a5d-982f-d8d789b2cf4e" />
+<img width="914" height="198" alt="Screenshot 2026-04-14 190022" src="https://github.com/user-attachments/assets/376798e7-9579-4b43-a9b5-c9ea8e9f78aa" />
 
 
 ## 📊 SWOC Analysis
